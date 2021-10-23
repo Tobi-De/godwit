@@ -1,0 +1,12 @@
+{
+  "name": "godwit",
+  "description": "Mailing list system.",
+  "runtime": "python3.9",
+  "env": [
+    {
+      "key": "DETA_PROJECT_KEY",
+      "description": "Deta project key",
+      "required": true
+    }
+  ]
+}
